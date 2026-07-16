@@ -1,4 +1,6 @@
 # j-algebra-mathematical-framework
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21337751.svg)](https://doi.org/10.5281/zenodo.21337751)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # A 5th-Order Nilpotent $j$-Algebraic Framework for Regularized Division by Zero
 
 This repository hosts the manuscript, algebraic formulations, and structural defense for a formal algebraic extension of the real numbers designed to regularize division by zero using a 5th-order nilpotent quotient ring.
@@ -42,3 +44,17 @@ This ensures that while higher-order transformations ($j$ through $j^4$) act as 
 
 ## 📜 License
 The documentation and mathematical structures presented in this repository are available under the open-access **CC-BY 4.0** license. Included administrative files are governed by the **MIT License**.
+
+## 📌 Citation
+
+If you use this framework or simulation code in your research, please cite the preprint:
+
+```bibtex
+@article{patel2026jalgebra,
+  author    = {Patel, Advait},
+  title     = {A Non-Singular j-Algebraic Scalar-Tensor Framework},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21337751},
+  url       = {[https://doi.org/10.5281/zenodo.21321137](https://doi.org/10.5281/zenodo.21337751)}
+}
